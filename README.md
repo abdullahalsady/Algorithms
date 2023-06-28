@@ -3,8 +3,8 @@
 ## Sorting Algorithms:
 
 - [Bubble Sort](./Sorting%20Algorithms/Bubble_sort.py)
+- [Selection Sort](./Sorting%20Algorithms/selection_sort.py)
 - Insertion Sort
-- Selection Sort
 - Merge Sort
 - Quick Sort
 - Heap Sort
