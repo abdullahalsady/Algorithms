@@ -1,6 +1,7 @@
 # Algorithms
 
 ## Sorting Algorithms:
+
 1. [Bubble Sort.](./Sorting%20Algorithms/bubble_sort.py)
 2. [Selection Sort.](./Sorting%20Algorithms/selection_sort.py)
 3. [Insertion Sort.](./Sorting%20Algorithms/insertion_sort.py)
