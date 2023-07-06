@@ -11,7 +11,7 @@
 7. Radix Sort.
 
 ## Searching Algorithms:
-1. Linear Search.
+1. [Linear Search.](./Searching%20Algorithms/linear_search.py)
 2. Binary Search.
 3. Ternary Search.
 3. Interpolation Search.
